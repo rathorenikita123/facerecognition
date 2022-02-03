@@ -1,5 +1,5 @@
 # SmartBrain 
-First react app
+Frontend of facerecognition app.
 
 1. Clone this repo
 2. Run `npm install`
