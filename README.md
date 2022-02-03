@@ -1,5 +1,5 @@
-# SmartBrain - v1
-Final project for ZTM course
+# SmartBrain 
+First react app
 
 1. Clone this repo
 2. Run `npm install`
